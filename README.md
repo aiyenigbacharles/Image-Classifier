@@ -1,1 +1,1 @@
-# Image Classification Model that detects a 'Happy' image or a 'Sad' image
+Image Classification Model that detects a 'Happy' image or a 'Sad' image
